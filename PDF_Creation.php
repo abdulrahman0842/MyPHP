@@ -1,3 +1,4 @@
+//See ReadMe_PDF_Creation.txt First
 <?php
 require('./fpdf.php');
 $pdf = new FPDF();
