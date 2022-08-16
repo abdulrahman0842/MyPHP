@@ -1,3 +1,3 @@
 # MyPHP
 MSBTE Web Based Application With PHP(22619) 
-Lab Manual Code & Practice Code
+Lab Manual Programs & Practice Programs
